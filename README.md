@@ -3,7 +3,7 @@
 - 💬 Atualmente estou estagiando na área desenvolvimento de sistemas.
 - 🌱 Estou aprendendo e aperfeiçoando algumas linguagens de programação, para me tornar uma desenvolvedora Full Stack.
 - 👯 Estou em busca de novos desafios para adquirir mais conhecimento e experiência profissional.
-- 📫 Como chegar até mim:  <a href = "mailto:hillaryssima876@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> & <a href="https://www.linkedin.com/in/vanessa-souza97/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 📫 Como chegar até mim:  <a href = "mailto:hillaryssima876@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> & <a href="https://www.linkedin.com/in/hillary-alexandra/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ###
 
 <div align="center">
