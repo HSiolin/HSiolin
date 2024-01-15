@@ -1,15 +1,14 @@
-### Olá! Eu sou a Vanessa Souza 👩‍💻
+### Olá! Me chamo Hillary Siolin 👩‍💻
 
-- 💬 Atualmente estou estagiando na área desenvolvimento.
-- 🌱 Estou aprendendo algumas linguagens para me tornar um Full Stack.
-- 👯 Estou procurando estágio para adquirir mais conhecimento e experiencia profissional.
-- 📫 Como chegar até mim:  <a href = "mailto:vanessasouzaaraujoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/vanessa-souza97/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-- 😄 Pronouns: Ela/dela
+- 💬 Atualmente estou estagiando na área desenvolvimento de sistemas.
+- 🌱 Estou aprendendo e aperfeiçoando algumas linguagens de programação, para me tornar uma desenvolvedora Full Stack.
+- 👯 Estou em busca de novos desafios para adquirir mais conhecimento e experiência profissional.
+- 📫 Como chegar até mim:  <a href = "mailto:hillaryssima876@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/vanessa-souza97/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ###
 <div align="center">
-  <a href="https://github.com/vanessaasouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessaasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaasouza&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Hillary77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hillary77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillary77&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,6 +24,6 @@
 ###
 <div> 
 
-  ![Snake animation](https://github.com/VanessaaSouza/VanessaaSouza/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Hillary77/Hillary77/blob/output/github-contribution-grid-snake.svg)
  
 </div>
