@@ -21,8 +21,3 @@
 </div>
 
 ###
-<div> 
-
-  ![Snake animation](https://github.com/Hillary77/Hillary77/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
