@@ -17,6 +17,7 @@
   <img align="center" alt="Vane-Js" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white.svg">
   <img align="center" alt="Vane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width="16" height="16" src="https://img.icons8.com/office/16/html.png" alt="html"/>
 </div>
 
 ###
