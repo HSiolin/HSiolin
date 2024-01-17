@@ -16,6 +16,7 @@
   <img width="40" height="40" src="https://img.icons8.com/office/40/html.png" alt="html"/>
   <img width="40" height="40" src="https://img.icons8.com/office/40/css.png" alt="css"/>
   <img width="40" height="40" src="https://img.icons8.com/office/40/js.png" alt="js"/>
+  <img width="40" height="40" src="https://img.icons8.com/office/40/py.png" alt="py"/>
 </div>
 
 ###
