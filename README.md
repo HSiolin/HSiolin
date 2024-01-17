@@ -18,6 +18,7 @@
   <img align="center" alt="Vane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width="30" height="30" src="https://img.icons8.com/office/16/html.png" alt="html"/>
+  <img width="40" height="40" src="https://img.icons8.com/office/40/html.png" alt="html"/>
 </div>
 
 ###
