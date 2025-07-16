@@ -14,10 +14,25 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" href="www.linkedin.com/in/hillary-alexandra" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <!-- Botão do LinkedIn -->
+  <a href="https://www.linkedin.com/in/hillary-alexandra" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="LinkedIn logo" 
+    />
+  </a>
+
+  <!-- Botão do Gmail -->
+  <a href="mailto:hillaryssima876@gmail.com">
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="Gmail logo" 
+    />
+  </a>
 </div>
+
 
 ###
 
