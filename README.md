@@ -24,25 +24,10 @@
 <br clear="both">
 
 <picture>
-  <!-- Versão para tema escuro -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/HSiolin/pacman-contribution-graph-dark.svg"
-  >
-  <!-- Versão para tema claro -->
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/HSiolin/pacman-contribution-graph.svg"
-  >
-  <!-- Imagem padrão (fallback) -->
-  <img 
-    src="https://raw.githubusercontent.com/HSiolin/pacman-contribution-graph.svg" 
-    alt="Gráfico de contribuições em estilo Pac-Man"
-    style="width: 100%; height: auto;"
-    loading="lazy"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HSiolin/HSiolin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HSiolin/HSiolin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HSiolin/HSiolin/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
 
