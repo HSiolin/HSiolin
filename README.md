@@ -6,9 +6,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HSiolin&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HSiolin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
+## 📊 GitHub Stats
+
+<div align="center">
+
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hsiolin&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hsiolin&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hsiolin&theme=radical) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hsiolin&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=hsiolin&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
 </div>
 
 ###
